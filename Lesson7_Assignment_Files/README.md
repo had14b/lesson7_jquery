@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+Homer Davis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses jquery to allow the webpage to respond to the users’ requests.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://had14b.github.io/lesson7_jquery/Lesson7_Assignment_Files
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery enables developers to implement common JavaScript tasks with minimal code.
+2. All jQuery code conforms to JavaScript rules but uses shortcuts.
+3. jQuery API includes methods for performing actions on selected elements.

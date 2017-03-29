@@ -1,0 +1,10 @@
+Perform at least one DOM traversal
+    -Uses the next() method
+Perform at least one CSS change
+    -Changes the background color to orange or blue depending on whether it is being hovered over or not
+Perform at least one animation/event
+    -Uses the animate() method to display the cooking ingredients and instructions with an animation
+    
+I changed the brownie recipe to a cake recipe.
+
+P.S. The cake is a lie.
